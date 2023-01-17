@@ -65,7 +65,7 @@ INSERT into album (name, relese_date)
 VALUES ('Tha Blue Carpet Treatment', 2006);
 
 INSERT into album (name, relese_date)
-VALUES ('Aleph', 2018);
+VALUES ('Aleph', 2020);
 
 
 
@@ -192,8 +192,7 @@ values
 	(4, 11),
 	(5, 6),
 	(6, 18),
-	(7, 5),
-	(8, 12)
+	(7, 5)
 
 
 
